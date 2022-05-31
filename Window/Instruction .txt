@@ -1,0 +1,5 @@
+﻿1. Place all the .java class files in a single folder
+2. Open Terminal/Console/Command Prompt (depending on your OS)
+3. Enter javac *.java
+4. Enter java Driver 
+5. When the game runs, click on New Game to begin. Player 1 is associated with red color and player 2 is associated with blue. Take turns to select a square. Don’t select a square that is a neighboring square ( any square that is immediately above, below, left, right or diagonal to a square that player has already selected) or you will loose .  Click on 'New Game' to start a new game at any time.
